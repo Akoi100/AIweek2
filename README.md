@@ -294,7 +294,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**[D'vock Tyronne Akoi]**  
 AI Machine Learning Assignment - Week 2  
 SDG 13: Climate Action
 
@@ -325,3 +325,4 @@ For questions or collaboration:
 **"AI can be the bridge between innovation and sustainability." — UN Tech Envoy**
 
 **Let's code for a better world! 🌍🤖**
+
